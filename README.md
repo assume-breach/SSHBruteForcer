@@ -3,7 +3,7 @@ A simple SSH brute force tool written in Python3 that can return a meterpreter r
 
 Usage:
 
-git clone https://github.com/assume-breach/SSHBruteForcer
+git clone https://github.com/assume-breach/SSHBruteForcer.git
 
 pip install -r requirements.txt
 
